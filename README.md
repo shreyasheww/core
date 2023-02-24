@@ -4,7 +4,7 @@ This is a core Flutter project that includes several commonly used libraries and
 Custom Widgets
 
 ## Project Setup
-### This will add a line like this to your package's pubspec.yaml (and run an implicit flutter pub get):
+ This will add a line like this to your package's pubspec.yaml (and run an implicit flutter pub get):
  ```
     core:
     path: ../../core
@@ -20,10 +20,9 @@ Custom Widgets
 ### Dependency Injection
 
 The project includes a dependency injection class for managing dependencies and making it easier to test and maintain code.
-Sized Utils
+Sized Utils. The project includes a SizedUtils class that includes all margin and padding-related properties.
 
-The project includes a SizedUtils class that includes all margin and padding-related properties.
-Dependencies
+## Dependencies
 
 ### The following dependencies are included in the project:
 
