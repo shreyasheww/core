@@ -1,16 +1,21 @@
-Core Project
+# Core Project
 
 This is a core Flutter project that includes several commonly used libraries and custom widgets to make it easier for developers to get started with their projects.
 Custom Widgets
 
-The project includes the following custom widgets:
+## Project Setup
+ ```core:
+    path: ../../core
+   ```
+
+### The project includes the following custom widgets:
 
     custom_navigation_bar: A customizable navigation bar widget that can
      be fully modified to fit your project's design and functionality requirements.
     custom_image_view: A widget that can display network images, assets images, SVG 
      images, and file images, and can also manage placeholder images.
 
-Dependency Injection
+### Dependency Injection
 
 The project includes a dependency injection class for managing dependencies and making it easier to test and maintain code.
 Sized Utils
@@ -18,7 +23,7 @@ Sized Utils
 The project includes a SizedUtils class that includes all margin and padding-related properties.
 Dependencies
 
-The following dependencies are included in the project:
+### The following dependencies are included in the project:
 
     dio: ^4.0.6: A popular HTTP client library for making API requests.
     injectable: ^2.1.0: A dependency injection framework for managing 
@@ -33,7 +38,7 @@ The following dependencies are included in the project:
     pretty_dio_logger: ^1.1.1: A library for logging network requests and
     responses in a readable format.
 
-Example Project
+###Example Project
 
 An example Flutter project is included that demonstrates how to use the custom widgets and dependencies included in this core project.
 Getting Started
