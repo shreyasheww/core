@@ -5,8 +5,10 @@ Custom Widgets
 
 The project includes the following custom widgets:
 
-    custom_navigation_bar: A customizable navigation bar widget that can be fully modified to fit your project's design and functionality requirements.
-    custom_image_view: A widget that can display network images, assets images, SVG images, and file images, and can also manage placeholder images.
+    custom_navigation_bar: A customizable navigation bar widget that can
+     be fully modified to fit your project's design and functionality requirements.
+    custom_image_view: A widget that can display network images, assets images, SVG 
+     images, and file images, and can also manage placeholder images.
 
 Dependency Injection
 
@@ -19,12 +21,17 @@ Dependencies
 The following dependencies are included in the project:
 
     dio: ^4.0.6: A popular HTTP client library for making API requests.
-    injectable: ^2.1.0: A dependency injection framework for managing dependencies and making it easier to test and maintain code.
-    get_storage: ^2.0.3: A lightweight key-value storage library for storing simple data.
+    injectable: ^2.1.0: A dependency injection framework for managing 
+    dependencies and making it easier to test and maintain code.
+    get_storage: ^2.0.3: A lightweight key-value storage library for 
+    storing simple data.
     flutter_svg: ^2.0.2: A library for rendering SVG images.
-    cached_network_image: ^3.2.3: A library for caching network images to improve performance.
-    dartz: ^0.10.1: A functional programming library for handling complex data structures and operations.
-    pretty_dio_logger: ^1.1.1: A library for logging network requests and responses in a readable format.
+    cached_network_image: ^3.2.3: A library for caching network images to
+    improve performance.
+    dartz: ^0.10.1: A functional programming library for handling complex
+    data structures and operations.
+    pretty_dio_logger: ^1.1.1: A library for logging network requests and
+    responses in a readable format.
 
 Example Project
 
