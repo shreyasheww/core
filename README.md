@@ -1,7 +1,10 @@
 # Core Project
 
 This is a core Flutter project that includes several commonly used libraries and custom widgets to make it easier for developers to get started with their projects.
-Custom Widgets
+
+The core Flutter project is stored in the root directory of the Flutter project. The advantage of having a core project is that when you have multiple projects with the same base API and the same parameters, you don't need to repeat the code or modules.
+
+For example, let's say you are creating a salon application that has two different sides: one for users and the other for salon service providers. Instead of creating separate projects for each side and duplicating the code, you can create a core project with the shared API and parameters that both sides will use. This will save you time and effort, and make your code more maintainable and scalable.
 
 ## Project Setup
  This will add a line like this to your package's pubspec.yaml (and run an implicit flutter pub get):
