@@ -4,7 +4,8 @@ This is a core Flutter project that includes several commonly used libraries and
 Custom Widgets
 
 ## Project Setup
- ```core:
+ ```
+    core:
     path: ../../core
    ```
 
@@ -38,7 +39,7 @@ Dependencies
     pretty_dio_logger: ^1.1.1: A library for logging network requests and
     responses in a readable format.
 
-###Example Project
+### Example Project
 
 An example Flutter project is included that demonstrates how to use the custom widgets and dependencies included in this core project.
 Getting Started
